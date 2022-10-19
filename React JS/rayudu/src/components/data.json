@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Natural",
+      "tours": [
+        {
+          "id": 1,
+          "name": "Photography",
+          "type": "A hill is a landform that extends above the surrounding terrain. It often has a distinct summit",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGf2afypSKua_Me_A_h8CgUWnZ0oDA_Oxhg&usqp=CAU"
+        },
+        {
+          "id": 2,
+          "name": "Videography",
+          "type": "A leaf is any of the principal appendages of a vascular plant stem, usually borne laterally aboveground and specialized for photosynthesis.",
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlgR7DPnMYmL_NQMXjflbcueZiKHmq3Pe7lQ&usqp=CAU"
+        },
+        {
+          "id": 3,
+          "name": "Editing",
+          "type": "Nature, in the broadest sense, is the physical world or universe. Nature can refer to the phenomena of the physical world, and also to life in general.",
+          "image": "https://images.unsplash.com/photo-1653043586925-cfb4676c69a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+        }
+      ]
+    }
+  ]

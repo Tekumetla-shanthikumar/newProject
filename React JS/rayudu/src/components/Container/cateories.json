@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Categories",
+      "content": [
+        {
+          "id": 1,
+          "name": "Nature",
+          "type": "Pictures",
+          "image": "https://cdn.pixabay.com/photo/2016/10/14/19/21/canyon-1740973_1280.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Weddings",
+          "type": "Pictures",
+          "image":"https://cdn.pixabay.com/photo/2017/08/06/20/11/wedding-2595862_1280.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Parties",
+          "type": "Pictures",
+          "image": "https://cdn.pixabay.com/photo/2017/07/21/23/57/concert-2527495_1280.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Animals",
+            "type": "Pictures",
+            "image": "https://cdn.pixabay.com/photo/2015/10/12/15/46/animal-984573__480.jpg"
+          }
+      ]
+    }
+  ]
